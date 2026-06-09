@@ -1,6 +1,6 @@
 # LinkedIn Post Generator Agent
 
-This AI agent automatically generates and posts content to LinkedIn based on topics provided in a Google Sheet.
+This AI agent automatically generates and posts content to LinkedIn based on topics provided in a Google Sheet, with the caption and the relavent images.
 
 ## Features
 
@@ -69,3 +69,4 @@ The agent will:
 - Google Sheets API credentials
 - LinkedIn account
 - Unsplash API key (for image search) "update 1" 
+"update 2" 
