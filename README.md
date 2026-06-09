@@ -4,11 +4,11 @@ This AI agent automatically generates and posts content to LinkedIn based on top
 
 ## Features
 
-- Reads topics from a Google Sheet
+- Reads topics from a Google Sheet 
 - Generates engaging content using Google's Gemini Pro
 - Finds relevant images for each topic
-- Posts content directly to LinkedIn
-- Updates the Google Sheet with generated content and image paths
+- Posts content directly to LinkedIn Post.
+- Updates the Google Sheet with generated content and image paths for the topic listed.
 
 ## Setup
 
