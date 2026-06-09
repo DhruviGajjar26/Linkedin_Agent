@@ -12,7 +12,7 @@ This AI agent automatically generates and posts content to LinkedIn based on top
 
 ## Setup
 
-1. Install the required dependencies:
+1. Install the required dependencies: 
 ```bash
 pip install -r requirements.txt
 ```
@@ -68,4 +68,4 @@ The agent will:
 - Google API key (for Gemini)
 - Google Sheets API credentials
 - LinkedIn account
-- Unsplash API key (for image search) 
+- Unsplash API key (for image search) "update 1" 
