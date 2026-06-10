@@ -45,7 +45,7 @@ SPREADSHEET_ID=your_google_sheet_id
 ```bash
 python linkedin_agent.py
 ```
-
+       
 The agent will:
 - Read topics from the Google Sheet
 - Generate content for each topic using Gemini Pro
