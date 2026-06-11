@@ -1,6 +1,6 @@
 # LinkedIn Post Generator Agent
 
-This AI agent automatically generates and posts content to LinkedIn based on topics provided in a Google Sheet, with the caption and the relavent images.
+This AI agent automatically generates and posts content to LinkedIn based on topics provided in a Google Sheet, with the caption and the relavent images Related.
 
 
 ## Features
@@ -46,7 +46,7 @@ SPREADSHEET_ID=your_google_sheet_id
 ```bash
 python linkedin_agent.py
 ```
-
+       
 The agent will:
 - Read topics from the Google Sheet
 - Generate content for each topic using Gemini Pro
